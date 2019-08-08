@@ -11,9 +11,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $error = array();
 
     if (empty($error)) {
-        $to = "davekubo@gmail.com";
+        $to = "arfarhan44@gmail.com";
         $subject = "RSVP Data";
-
         // Always set content-type when sending HTML email
         $headers = "MIME-Version: 1.0" . "\r\n";
         $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
