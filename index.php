@@ -165,7 +165,7 @@
 
 <!-- <div class="align-middle"> -->
 
-        <div class="story_txt">
+        <div class="story_wrapper">
 
             <div class="story_title">
                 Registry
@@ -174,9 +174,9 @@
             <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
                 Amazon Wedding
             <div><i class="flaticon-diamond30"></i></a></div></div>
-<!-- </div> -->
         </div>
     </div>
+</b>
     <span class="glyphicon glyphicon-arrow-right"></span>
 </div>
 
@@ -211,6 +211,7 @@
                             Pictures and Appetizers 11:00-11:45 AM, followed by Lunch from 12:00 - 1:30 PM.
                         </div>
                     </div>
+                    </b>
                     <span class="glyphicon glyphicon-arrow-right"></span>
                 </div>
 
@@ -228,6 +229,7 @@
                             Erin and Jared will be sealed at the Gilbert Temple at 4 PM. Invited guests should arrive no later then 3:30 PM. 
                         </div>
                     </div>
+                    </b>
                     <span class="glyphicon glyphicon-arrow-right"></span>
                 </div>
 
