@@ -165,7 +165,7 @@
         <!-- Registry Links -->
         <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
                                     Erin and Jared <br /> are registered on <br />Amazon Wedding <br />
-                                    <i class="flaticon-balloon14"></i></a></div>
+                                    <i class="flaticon-favourites7"></i></a></div>
                         </div>
                     </div>
                 </div>
