@@ -194,6 +194,7 @@
                             The Ceremony will begin at 10:30 AM on Saturday Sept 21st. Please be in your seats by 10:15 AM.  
                         </div>
                     </div>
+                    <span class="glyphicon glyphicon-arrow-right"></span>
                 </div>
 
                 <div class="story_item">
