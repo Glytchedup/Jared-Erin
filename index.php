@@ -134,9 +134,9 @@
                             <i class="flaticon-map35"></i></a></div>
 
                     <div class="pattern2"></div>
-                    <div class="title1">10 o'clock</div>
+                    <div class="title1">10 thirty</div>
                     <div class="title5">IN THE MORNING</div>
-                    <div class="title4">Sept Twenty First<br>Two Thousand and Eighteen</div>
+                    <div class="title4">Sept Twenty First<br>Two Thousand and Nineteen</div>
                     <div class="pattern3"></div>
                     <div id="gmap_canvas"></div>
                 </div>
@@ -195,9 +195,9 @@
                         <div class="story_txt">
                             <div class="story_title">
                                 Pictures, Appetizers and Lunch
-                                <i>Pictures and Appetizers 11:00-11:45 AM</i>
+                                <i>21.09.2019</i>
                             </div>
-                            Followed by Lunch from 12:00 - 1:30 PM.
+                            Pictures and Appetizers 11:00-11:45 AM, followed by Lunch from 12:00 - 1:30 PM.
                         </div>
                     </div>
                 </div>
@@ -303,10 +303,10 @@
             <div class="gallery_wrapper">
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/date1.jpg" title="Engagement Photos"><b>Thailand</b>
+                        <a href="img/date3.jpg" title="Engagement Photos"><b>Thailand</b>
                         </a>
                     </div>
-                    <img src="img/date1.jpg" alt="Gallery 1">
+                    <img src="img/date3.jpg" alt="Gallery 1">
                 </div>
                 <div class="gallery_item">
                     <div class="gallery_txt">
