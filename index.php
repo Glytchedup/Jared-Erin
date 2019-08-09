@@ -163,7 +163,7 @@
     <div class="story_plane">
         <div class="story_back"></div>
 
-<div class="align-middle">
+<!-- <div class="align-middle"> -->
 
         <div class="story_txt">
 
@@ -175,7 +175,7 @@
                 Amazon Wedding
             <div><i class="flaticon-diamond30"></i></a></div></div>
 
-</div>
+<!-- </div> -->
 
         </div>
     </div>
