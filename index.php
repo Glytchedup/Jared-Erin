@@ -168,12 +168,14 @@
             <i>Erin and Jared are registered on</i>
         </div>
         <!-- Registry Links -->
-        <div class="title3 text-center"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
-        <br /> Amazon Wedding <br />
+        <div>
+        <div class="title3 center"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+        Amazon Wedding <br />
         <i class="flaticon-diamond30"></i></a></div>
-                        </div>
-                    </div>
-                </div>
+        </div>
+        </div>
+        </div>
+        </div>
                 
                 <div class="story_item">
                     <div class="story_img parallax" data-image="img/BRB.jpg">
