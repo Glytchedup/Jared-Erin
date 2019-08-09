@@ -167,6 +167,7 @@
 
         <div class="story_txt">
 
+            </div>
             <div class="story_title">
                 Registry
             <i>Erin and Jared are registered on</i>
@@ -175,9 +176,6 @@
                 Amazon Wedding
             <div><i class="flaticon-diamond30"></i></a></div></div>
 
-<!-- </div> -->
-
-        </div>
     </div>
     <span class="glyphicon glyphicon-arrow-right"></span>
 </div>
