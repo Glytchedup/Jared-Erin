@@ -163,7 +163,7 @@
     <div class="story_plane">
         <div class="story_back"></div>
 
-        <div class="story_wrapper">
+        <div class="story_title">
                 
                 <div class="story_txt">
                         <div class="story_title">
