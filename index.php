@@ -161,7 +161,7 @@
 </div>
 <div class="story_plane">
 
-<div class="center-block">
+<div class="center-block align-middle">
 
 <div class="story_back"></div>
     <div class="story_txt center-block">
@@ -179,8 +179,8 @@
 </div>
 
         </div>
-        </div>
-        </div>
+    </div>
+</div>
         </div>
                 
                 <div class="story_item">
