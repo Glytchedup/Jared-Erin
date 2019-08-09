@@ -163,9 +163,9 @@
     <div class="story_plane">
         <div class="story_back"></div>
 
-        <div class="container-fluid">
+        <!-- <div class="container-fluid story_tx"> -->
                 
-                <div class="story_txt">
+                <div class="story_txt container-fluid">
                         <div class="story_title">
                             Registry
                             <i>Erin and Jared are registered on</i>
@@ -176,7 +176,7 @@
                         <div><i class="flaticon-diamond30"></i></a></div></div>
                         
                     </div>      
-                    </div>
+                    <!-- </div> -->
                     </div><span class="glyphicon glyphicon-arrow-right"></span>
                     </div>
 
