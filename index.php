@@ -300,10 +300,10 @@
             <div class="gallery_wrapper">
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/date1.jpg" title="Engagement Photos"><b>Thailand</b>
+                        <a href="img/date2.jpg" title="Engagement Photos"><b>Thailand</b>
                         </a>
                     </div>
-                    <img src="img/date1.jpg" alt="Gallery 1">
+                    <img src="img/date2.jpg" alt="Gallery 1">
                 </div>
                 <div class="gallery_item">
                     <div class="gallery_txt">
