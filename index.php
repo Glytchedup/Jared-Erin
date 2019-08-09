@@ -147,7 +147,6 @@
             </div>
         </section>
         <!-- When & Where End -->
- 
         <!-- Events -->
         <section class="our_story events" id="events">
             <h2>Our Events</h2>
@@ -160,24 +159,22 @@
     <div class="story_img parallax" data-image="img/Registry.jpg">
     <div class="story_img_plane"></div>
 </div>
-
 <div class="story_plane">
     <div class="story_back"></div>
     <div class="story_txt">
+        <br />
         <div class="story_title">
             Registry
             <i>Erin and Jared are registered on</i>
-            
-            <div class="title1"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
-            <br /> Amazon Wedding <br />
-            <i class="flaticon-diamond30"></i></a></div>
-            <br />
         </div>
+        <!-- Registry Links -->
+        <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+        <br /> Amazon Wedding <br />
+        <i class="flaticon-diamond30"></i></a></div>
                         </div>
                     </div>
                 </div>
-
-
+                
                 <div class="story_item">
                     <div class="story_img parallax" data-image="img/BRB.jpg">
                         <div class="story_img_plane"></div>
@@ -192,6 +189,7 @@
                             </div>
                             The Ceremony will begin at 10:30 AM on Saturday Sept 21st. Please be in your seats by 10:15 AM.  
                         </div>
+                    </div>
                 </div>
 
                 <div class="story_item">
