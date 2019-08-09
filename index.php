@@ -209,7 +209,7 @@
 
                 <!-- Item -->
                 <div class="story_item">
-                    <div class="story_img parallax" data-image="img/reception.jpg">
+                    <div class="story_img parallax" data-image="img/reception2.jpg">
                         <div class="story_img_plane"></div>
                     </div>
                     <div class="story_plane">
