@@ -151,8 +151,8 @@
         <section class="our_story events" id="events">
             <h2>Our Events</h2>
 
-        <!-- Wrapper -->
-        <div class="story_wrapper">
+    <!-- Wrapper -->
+    <div class="story_wrapper">
 
 <!-- Item -->
 <div class="story_item">
@@ -176,7 +176,7 @@
                         <div><i class="flaticon-diamond30"></i></a></div></div>
                         
                     </div>      
-                </div>
+                    </div>
                     </div><span class="glyphicon glyphicon-arrow-right"></span>
                     </div>
 
