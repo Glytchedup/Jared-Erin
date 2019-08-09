@@ -20,7 +20,7 @@
     <!-- Theme CSS -->
     <link href="css/style.min.css" rel="stylesheet">
     <!-- Color CSS -->
-    <link href="css/blue.min.css" rel="stylesheet">
+    <link href="css/pink.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/testStyle.min.css" rel="stylesheet">
 
     <!-- Google Fonts -->
@@ -168,7 +168,7 @@
             <i>Erin and Jared are registered on</i>
         </div>
         <!-- Registry Links -->
-        <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+        <div class="title3 text-center"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
         <br /> Amazon Wedding <br />
         <i class="flaticon-diamond30"></i></a></div>
                         </div>
