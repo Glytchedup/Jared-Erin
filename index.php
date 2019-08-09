@@ -166,7 +166,7 @@
 <!-- <div class="center-block align-middle story_txt"> -->
 
 <div class="story_back"></div>
-    <div class="story_txt align-middle">
+    <div class="story_txt">
         <!-- <br /> -->
         <div class="story_title">
             Registry
@@ -178,7 +178,7 @@
 <div class="align-middle">
         <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
         Amazon Wedding <br />
-        <i class="flaticon-diamond30"></i></a></div>
+        <div><i class="flaticon-diamond30"></i></a></div></div>
 </div>
                 <!-- </div> -->
             <!-- </div> -->
