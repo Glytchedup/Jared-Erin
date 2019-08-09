@@ -151,9 +151,9 @@
         <section class="our_story events" id="events">
             <h2>Our Events</h2>
 
-            <div class="container">            
-    <!-- Wrapper -->
-    <div class="story_wrapper">
+<div>            
+        <!-- Wrapper -->
+        <div class="story_wrapper">
 
 </div>
 
