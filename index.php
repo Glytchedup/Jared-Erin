@@ -163,10 +163,11 @@
 
 <div class="story_plane">
 
-<!-- <div class="center-block align-middle story_txt"> -->
+<div class="center-block align-middle story_txt">
 
 <div class="story_back"></div>
-    <div class="story_txt">
+
+<div class="story_txt">
         <!-- <br /> -->
         <div class="story_title">
             Registry
@@ -175,13 +176,13 @@
         <!-- Registry Links -->
         <!-- <div> -->
         <!-- <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank"> -->
-<div class="align-middle">
+<!-- <div class="align-middle"> -->
         <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
         Amazon Wedding <br />
         <div><i class="flaticon-diamond30"></i></a></div></div>
-</div>
+<!-- </div> -->
                 <!-- </div> -->
-            <!-- </div> -->
+            </div>
         </div>
     </div>
 </div>
