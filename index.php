@@ -162,9 +162,8 @@
     <div class="story_txt">
         <div class="story_title">
             Registry
-            <!-- <i>21.09.2019</i> -->
+            <i>Erin and Jared are registered on</i>
         </div>
-        Erin and Jared are registered on
         <!-- Registry Links -->
         <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
                                     <br />Amazon Wedding <br />
