@@ -161,7 +161,7 @@
 </div>
 <div class="story_plane">
     <div class="story_back"></div>
-    <div class="story_txt">
+    <div class="story_txt center">
         <br />
         <div class="story_title">
             Registry
@@ -169,7 +169,7 @@
         </div>
         <!-- Registry Links -->
         <div>
-        <div class="title3 center"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+        <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
         Amazon Wedding <br />
         <i class="flaticon-diamond30"></i></a></div>
         </div>
