@@ -182,7 +182,7 @@
                         <div class="story_txt">
                             <div class="story_title">
                                 Civil Ceremony At Schnepf Farms
-                                <i>21.09.2019</i>
+                                <i>10:30 AM</i>
                             </div>
                             The Ceremony will begin at 10:30 AM on Saturday Sept 21st. Please be in your seats by 10:15 AM.  
                         </div>
@@ -198,7 +198,7 @@
                         <div class="story_txt">
                             <div class="story_title">
                                 Pictures, Appetizers and Lunch
-                                <i>21.09.2019</i>
+                                <i>11:00 AM</i>
                             </div>
                             Pictures and Appetizers 11:00-11:45 AM, followed by Lunch from 12:00 - 1:30 PM.
                         </div>
@@ -214,7 +214,7 @@
                         <div class="story_txt">
                             <div class="story_title">
                                 Sealing
-                                <i>21.09.2019</i>
+                                <i>4:00 PM</i>
                             </div>
                             Erin and Jared will be sealed at the Gilbert Temple at 4 PM. Invited guests should arrive no later then 3:30 PM. 
                         </div>
@@ -238,7 +238,7 @@
                         <div class="story_txt">
                             <div class="story_title">
                                 Departure
-                                <i>21.09.2019 5PM</i>
+                                <i>5:00 PM</i>
                             </div>
                             The couple will depart after the ceremony. Additional photos will be posted on the site soon after!
                         </div>
