@@ -150,19 +150,26 @@
             <!-- Wrapper -->
             <div class="story_wrapper">
 
-                <!-- Item -->
-                <div class="story_item">
-                    <div class="story_img parallax" data-image="img/Registry.jpg">
-                        <div class="story_img_plane"></div>
-                    </div>
-                    <div class="story_plane">
-                        <div class="story_back"></div>
-                        <div class="story_txt">
-                            <div class="story_title">
-                                Registry
-                                <i>21.09.2019</i>
-                            </div>
-                            Registry Links
+var str = "Amazon Wedding";
+var result = str.link("https://www.amazon.com/wedding/share/ErAndJarBear");
+
+
+<!-- Item -->
+<div class="story_item">
+    <div class="story_img parallax" data-image="img/Registry.jpg">
+    <div class="story_img_plane"></div>
+</div>
+<div class="story_plane">
+    <div class="story_back"></div>
+    <div class="story_txt">
+        <div class="story_title">
+            Registry
+            <!-- <i>21.09.2019</i> -->
+        </div>
+        <!-- Registry Links -->
+        <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+                                    Erin and Jared <br /> are registered on <br />Amazon Wedding <br />
+                                    <i class="flaticon-map35"></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -328,10 +335,10 @@
                 </div>
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/pre_wed.jpg" title="Engagement Photos"><b>Paradise</b>
+                        <a href="img/jungle.jpg" title="Engagement Photos"><b>Zipline Adventure</b>
                         </a>
                     </div>
-                    <img src="img/pre_wed.jpg" alt="Gallery 4">
+                    <img src="img/jungle.jpg" alt="Gallery 4">
                 </div>
             </div>
         </section>
