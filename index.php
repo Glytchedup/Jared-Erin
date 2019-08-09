@@ -164,8 +164,8 @@
 <div class="center-block align-middle story_txt">
 
 <div class="story_back"></div>
-    <div class="story_txt center-block">
-        <br />
+    <div class="story_txt">
+        <!-- <br /> -->
         <div class="story_title">
             Registry
             <i>Erin and Jared are registered on</i>
