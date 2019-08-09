@@ -175,9 +175,11 @@
         <!-- Registry Links -->
         <!-- <div> -->
         <!-- <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank"> -->
-        <div><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+<div class="align-center">
+        <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
         Amazon Wedding <br />
         <i class="flaticon-diamond30"></i></a></div>
+</div>
                 <!-- </div> -->
             <!-- </div> -->
         </div>
