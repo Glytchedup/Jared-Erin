@@ -162,7 +162,7 @@
 
     <div class="story_plane">
         <div class="story_back"></div>
-        <div class="story_txt" style="padding-top 30px">
+        <div class="story_txt" style="padding-top: 30px;">
             
             <div class="story_title">
                 Registry
