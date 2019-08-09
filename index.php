@@ -230,20 +230,19 @@
 
                 <!-- Item -->
                 <div class="story_item">
-                    <!-- <div class="story_img parallax" data-image="img/reception2.jpg">
+                    <div class="story_img parallax" data-image="img/honeymoon.jpg">
                         <div class="story_img_plane"></div>
                     </div>
                     <div class="story_plane">
                         <div class="story_back"></div>
                         <div class="story_txt">
                             <div class="story_title">
-                                Private Reception
-                                <i>21.09.2019 5PM Onwards</i>
+                                Departure
+                                <i>21.09.2019 5PM</i>
                             </div>
-                            This is virtually the first public appearance of the couple together, after
-                            wedding where they receive the blessing and gifts from the society and relatives.
+                            The couple will depart after the ceremony. Additional photos will be posted on the site soon after!
                         </div>
-                    </div> -->
+                    </div>
                 </div> -->
 
                 <!-- Item -->
