@@ -94,7 +94,7 @@
                     <div class="im_arrows"></div>
                 </div>
                 <div class="im2 parallax" data-bottom="right:20%" data-center="right:0" data-image="img/Erin_Solo.jpg"
-                    data-original-title="Vidhya Shivalingam">
+                    data-original-title="Erin">
                     <div class="im_arrows"></div>
                 </div>
 
