@@ -210,6 +210,7 @@
                             Pictures and Appetizers 11:00-11:45 AM, followed by Lunch from 12:00 - 1:30 PM.
                         </div>
                     </div>
+                    <span class="glyphicon glyphicon-arrow-right"></span>
                 </div>
 
                 <div class="story_item">
@@ -226,6 +227,7 @@
                             Erin and Jared will be sealed at the Gilbert Temple at 4 PM. Invited guests should arrive no later then 3:30 PM. 
                         </div>
                     </div>
+                    <span class="glyphicon glyphicon-arrow-right"></span>
                 </div>
 
 
