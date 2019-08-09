@@ -160,7 +160,7 @@
         <div class="story_img_plane"></div>
     </div>
 
-    <div class="story_plane">
+    <div class="story_plane row d-flex justify-content-center">
         <div class="story_back"></div>
         <div class="story_txt" style="margin-top: 230px;">
             
