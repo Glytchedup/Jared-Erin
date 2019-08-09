@@ -147,6 +147,7 @@
             </div>
         </section>
         <!-- When & Where End -->
+ 
         <!-- Events -->
         <section class="our_story events" id="events">
             <h2>Our Events</h2>
@@ -166,12 +167,12 @@
         <div class="story_title">
             Registry
             <i>Erin and Jared are registered on</i>
+            
+            <div class="title1"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+            <br /> Amazon Wedding <br />
+            <i class="flaticon-diamond30"></i></a></div>
+            <br />
         </div>
-
-        <div class="title1"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
-        <br /> Amazon Wedding <br />
-        <i class="flaticon-diamond30"></i></a></div>
-        <br />
                         </div>
                     </div>
                 </div>
