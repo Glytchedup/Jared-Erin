@@ -162,14 +162,13 @@
 
     <div class="story_plane">
         <div class="story_back"></div>
-        <div class="story_txt">
+        <div class="story_txt" style="padding-top 30px">
             
             <div class="story_title">
                 Registry
             <i>Erin and Jared are registered on</i>
             </div>
             <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
-                <!-- Amazon Wedding <br /> -->
                 Amazon Wedding
             <div><i class="flaticon-diamond30"></i></a></div></div>
         </div>
