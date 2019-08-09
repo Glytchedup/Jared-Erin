@@ -166,7 +166,7 @@
 <!-- <div class="center-block align-middle story_txt"> -->
 
 <div class="story_back"></div>
-    <div class="story_txt">
+    <div class="story_txt align-middle">
         <!-- <br /> -->
         <div class="story_title">
             Registry
