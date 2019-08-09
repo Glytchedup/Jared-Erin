@@ -70,7 +70,7 @@
     <div class="page">
 
         <!-- Intro -->
-        <section class="home_intro  parallax2" data-image="img/wine.jpg">
+        <section class="home_intro  parallax2" data-image="img/Zoo.jpg">
 
             <div class="home_txt" data-0="opacity:1" data-top-bottom="opacity:0">
 
@@ -152,6 +152,21 @@
 
                 <!-- Item -->
                 <div class="story_item">
+                    <div class="story_img parallax" data-image="img/Registry.jpg">
+                        <div class="story_img_plane"></div>
+                    </div>
+                    <div class="story_plane">
+                        <div class="story_back"></div>
+                        <div class="story_txt">
+                            <div class="story_title">
+                                Registry
+                                <i>21.09.2019</i>
+                            </div>
+                            Registry Links
+                        </div>
+                    </div>
+                </div>
+                <div class="story_item">
                     <div class="story_img parallax" data-image="img/BRB.jpg">
                         <div class="story_img_plane"></div>
                     </div>
@@ -185,21 +200,6 @@
                     </div>
                 </div>
 
-                <div class="story_item">
-                    <div class="story_img parallax" data-image="img/Registry.jpg">
-                        <div class="story_img_plane"></div>
-                    </div>
-                    <div class="story_plane">
-                        <div class="story_back"></div>
-                        <div class="story_txt">
-                            <div class="story_title">
-                                Registry
-                                <i>21.09.2019</i>
-                            </div>
-                            Registry Links
-                        </div>
-                    </div>
-                </div>
 
                 <!-- Item -->
 
