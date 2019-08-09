@@ -58,11 +58,11 @@
         <!-- Submenu End -->
 
         <!-- Social Buttons -->
-        <div class="header_social">
+        <!-- <div class="header_social">
             <a href="#"><i class="fa fa-twitter"></i></a>
             <a href="#"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-pinterest"></i></a>
-        </div>
+        </div> -->
 
     </header>
     <!-- Header End -->
@@ -226,7 +226,7 @@
                 </div>
 
                 <!-- Item -->
-                <div class="story_item">
+                <!-- <div class="story_item">
                     <div class="story_img parallax" data-image="img/phere.jpg">
                         <div class="story_img_plane"></div>
                     </div>
@@ -239,7 +239,7 @@
                             </div>
                             Secret After Party. Details to come
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
@@ -347,11 +347,11 @@
 
 
                     <!-- Social Buttons -->
-                    <div class="footer_social">
+                    <!-- <div class="footer_social">
                         <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-pinterest"></i></a>
-                    </div>
+                    </div> -->
 
                     <div class="title1">Jared &amp; Erin</div>
 
