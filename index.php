@@ -177,10 +177,16 @@
         <!-- <div> -->
         <!-- <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank"> -->
 <!-- <div class="align-middle"> -->
-        <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+
+
+
+        <!-- <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
         Amazon Wedding <br />
-        <div><i class="flaticon-diamond30"></i></a></div></div>
-<!-- </div> -->
+        <div><i class="flaticon-diamond30"></i></a></div></div> -->
+
+Amazon
+
+        <!-- </div> -->
                 <!-- </div> -->
             </div>
         </div>
