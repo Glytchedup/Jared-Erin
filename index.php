@@ -151,12 +151,37 @@
         <section class="our_story events" id="events">
             <h2>Our Events</h2>
 
-            <!-- Wrapper -->
-            <div class="story_wrapper">
-
+    <!-- Wrapper -->
+    <div class="story_wrapper">
 
 <!-- Item -->
 <div class="story_item">
+    <!-- <div class="story_img parallax" data-image="img/mehandi.jpg"> -->
+    <div class="story_img parallax" data-image="img/Registry.jpg">
+
+        <div class="story_img_plane"></div>
+    </div>
+
+    <div class="story_plane">
+
+
+
+        <div class="story_back"></div>
+        <div class="story_txt">
+            
+            <div class="story_title">
+                
+            Registry
+            <i>Erin and Jared are registered on</i>
+
+            </div>
+            Amazon
+        </div>
+    </div>
+</div>
+
+<!-- Item -->
+<!-- <div class="story_item">
     <div class="story_img parallax" data-image="img/Registry.jpg">
     <div class="story_img_plane"></div>
 </div>
@@ -168,31 +193,19 @@
 <div class="story_back"></div>
 
 <div class="story_txt">
-        <!-- <br /> -->
+        
         <div class="story_title">
             Registry
             <i>Erin and Jared are registered on</i>
         </div>
-        <!-- Registry Links -->
-        <!-- <div> -->
-        <!-- <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank"> -->
-<!-- <div class="align-middle"> -->
-
-
-
-        <!-- <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
+        <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
         Amazon Wedding <br />
-        <div><i class="flaticon-diamond30"></i></a></div></div> -->
-
-Amazon
-
-        <!-- </div> -->
-                <!-- </div> -->
+        <div><i class="flaticon-diamond30"></i></a></div></div>
             </div>
         </div>
     </div>
 </div>
-                
+                 -->
                 <div class="story_item">
                     <div class="story_img parallax" data-image="img/BRB.jpg">
                         <div class="story_img_plane"></div>
