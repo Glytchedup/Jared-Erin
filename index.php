@@ -20,7 +20,7 @@
     <!-- Theme CSS -->
     <link href="css/style.min.css" rel="stylesheet">
     <!-- Color CSS -->
-    <link href="css/red.min.css" rel="stylesheet">
+    <link href="css/pink.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/testStyle.min.css" rel="stylesheet">
 
     <!-- Google Fonts -->
@@ -133,7 +133,7 @@
                             <i class="flaticon-map35"></i></a></div>
                             <br />
                     <div class="title3"><a class="maplink" href="https://youtu.be/Ujmwr95u9ro" target="_blank">
-                            Click here for video directions <br /> from Cloud Rd entrance
+                            Click here for video directions <br /> from Cloud Rd entrance </div>
               
                     <div class="pattern2"></div>
                     <div class="title1">10 thirty</div>
