@@ -300,14 +300,14 @@
             <div class="gallery_wrapper">
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/date1.jpg" title="Engagement Photos"><b>Date</b>
+                        <a href="img/date1.jpg" title="Engagement Photos"><b>Thailand</b>
                         </a>
                     </div>
                     <img src="img/date1.jpg" alt="Gallery 1">
                 </div>
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/AZ.jpg" title="Engagement Photos"><b>Roka</b>
+                        <a href="img/AZ.jpg" title="Engagement Photos"><b>Hiking</b>
                         </a>
                     </div>
                     <img src="img/AZ.jpg" alt="Gallery 2">
@@ -321,14 +321,14 @@
             </div> -->
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/ring2.jpg" title="Engagement Photos"><b>Engagement</b>
+                        <a href="img/ring2.jpg" title="Engagement Photos"><b>The Ring</b>
                         </a>
                     </div>
                     <img src="img/ring2.jpg" alt="Gallery 3">
                 </div>
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/pre_wed.jpg" title="Engagement Photos"><b>Pre Wedding</b>
+                        <a href="img/pre_wed.jpg" title="Engagement Photos"><b>Paradise</b>
                         </a>
                     </div>
                     <img src="img/pre_wed.jpg" alt="Gallery 4">
