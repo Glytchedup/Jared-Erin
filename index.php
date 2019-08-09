@@ -154,15 +154,16 @@
             <!-- Wrapper -->
             <div class="story_wrapper">
 
+
 <!-- Item -->
 <div class="story_item">
     <div class="story_img parallax" data-image="img/Registry.jpg">
     <div class="story_img_plane"></div>
 </div>
-<div>
+
 <div class="story_plane">
 
-<div class="center-block align-middle story_txt">
+<!-- <div class="center-block align-middle story_txt"> -->
 
 <div class="story_back"></div>
     <div class="story_txt">
@@ -172,17 +173,15 @@
             <i>Erin and Jared are registered on</i>
         </div>
         <!-- Registry Links -->
-        <div>
+        <!-- <div> -->
         <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
         Amazon Wedding <br />
         <i class="flaticon-diamond30"></i></a></div>
-
-</div>
-
+                <!-- </div> -->
+            <!-- </div> -->
         </div>
     </div>
 </div>
-        </div>
                 
                 <div class="story_item">
                     <div class="story_img parallax" data-image="img/BRB.jpg">
