@@ -169,6 +169,7 @@
                         <div class="story_title">
                             <br>
                             <br>
+                            <br>
                             Registry
                             <i>Erin and Jared are registered on</i>
                         </div>
