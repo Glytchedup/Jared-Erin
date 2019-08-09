@@ -156,14 +156,14 @@
 
 <!-- Item -->
 <div class="story_item">
-    <div class="story_img parallax" data-image="img/Registry.jpg">
+    <div class="story_img parallax align-middle" data-image="img/Registry.jpg">
         <div class="story_img_plane"></div>
     </div>
 
     <div class="story_plane">
         <div class="story_back"></div>
 
-        <div class="container-fluid align-middle">
+        <div class="container-fluid">
                 
                 <div class="story_txt">
                         <div class="story_title">
