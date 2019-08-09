@@ -159,6 +159,7 @@
     <div class="story_img parallax" data-image="img/Registry.jpg">
     <div class="story_img_plane"></div>
 </div>
+<div>
 <div class="story_plane">
 
 <div class="center-block align-middle story_txt">
