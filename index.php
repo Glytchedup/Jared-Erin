@@ -90,10 +90,10 @@
         <!-- Married -->
         <section class="married clearfix" id="married">
             <div class="container">
-                <div class="im1 parallax" data-bottom="left:30%" data-center="left:0" data-image="img/alankar2.jpg">
+                <div class="im1 parallax" data-bottom="left:30%" data-center="left:0" data-image="img/Jared_Solo.jpg">
                     <div class="im_arrows"></div>
                 </div>
-                <div class="im2 parallax" data-bottom="right:20%" data-center="right:0" data-image="img/nancy6.jpg"
+                <div class="im2 parallax" data-bottom="right:20%" data-center="right:0" data-image="img/Erin_Solo.jpg"
                     data-original-title="Vidhya Shivalingam">
                     <div class="im_arrows"></div>
                 </div>
@@ -113,7 +113,7 @@
 
         <!-- Married End -->
         <!-- When & Where -->
-        <section class="when_where white_txt parallax" id="when_where" data-image="img/manpho.jpg"
+        <section class="when_where white_txt parallax" id="when_where" data-image="img/Schnepf.jpg"
             data-bottom-top="opacity:0;" data-bottom="opacity:1;">
             <div class="over"></div>
             <div class="container">
@@ -152,7 +152,7 @@
 
                 <!-- Item -->
                 <div class="story_item">
-                    <div class="story_img parallax" data-image="img/mehandi.jpg">
+                    <div class="story_img parallax" data-image="img/BRB.jpg">
                         <div class="story_img_plane"></div>
                     </div>
 
@@ -170,7 +170,7 @@
 
 
                 <div class="story_item">
-                    <div class="story_img parallax" data-image="img/haldi.jpg">
+                    <div class="story_img parallax" data-image="img/Temple.jpg">
                         <div class="story_img_plane"></div>
                     </div>
                     <div class="story_plane">
@@ -186,7 +186,7 @@
                 </div>
 
                 <div class="story_item">
-                    <div class="story_img parallax" data-image="img/sangeet.jpg">
+                    <div class="story_img parallax" data-image="img/Registry.jpg">
                         <div class="story_img_plane"></div>
                     </div>
                     <div class="story_plane">
@@ -307,10 +307,10 @@
                 </div>
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/roka2.jpg" title="Engagement Photos"><b>Roka</b>
+                        <a href="img/AZ.jpg" title="Engagement Photos"><b>Roka</b>
                         </a>
                     </div>
-                    <img src="img/roka2.jpg" alt="Gallery 2">
+                    <img src="img/AZ.jpg" alt="Gallery 2">
                 </div>
                 <!-- <div class="gallery_item">
                 <div class="gallery_txt">
