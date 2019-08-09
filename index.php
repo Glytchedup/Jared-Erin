@@ -156,63 +156,30 @@
 
 <!-- Item -->
 <div class="story_item">
-    <!-- <div class="story_img parallax" data-image="img/mehandi.jpg"> -->
     <div class="story_img parallax" data-image="img/Registry.jpg">
-
         <div class="story_img_plane"></div>
     </div>
 
     <div class="story_plane">
-
-
-
         <div class="story_back"></div>
         <div class="story_txt">
             
             <div class="story_title">
-                
-            Registry
+                Registry
             <i>Erin and Jared are registered on</i>
-
             </div>
             <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
-        Amazon Wedding <br />
-        <div><i class="flaticon-diamond30"></i></a></div></div>
+                <!-- Amazon Wedding <br /> -->
+                Amazon Wedding
+            <div><i class="flaticon-diamond30"></i></a></div></div>
         </div>
     </div>
 </div>
 
-<!-- Item -->
-<!-- <div class="story_item">
-    <div class="story_img parallax" data-image="img/Registry.jpg">
-    <div class="story_img_plane"></div>
-</div>
-
-<div class="story_plane">
-
-<div class="center-block align-middle story_txt">
-
-<div class="story_back"></div>
-
-<div class="story_txt">
-        
-        <div class="story_title">
-            Registry
-            <i>Erin and Jared are registered on</i>
-        </div>
-        <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
-        Amazon Wedding <br />
-        <div><i class="flaticon-diamond30"></i></a></div></div>
-            </div>
-        </div>
-    </div>
-</div>
-                 -->
                 <div class="story_item">
                     <div class="story_img parallax" data-image="img/BRB.jpg">
                         <div class="story_img_plane"></div>
                     </div>
-
                     <div class="story_plane">
                         <div class="story_back"></div>
                         <div class="story_txt">
