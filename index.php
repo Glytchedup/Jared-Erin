@@ -161,7 +161,7 @@
 </div>
 <div class="story_plane">
 
-<div class="center-block align-middle">
+<div class="center-block align-middle story_txt">
 
 <div class="story_back"></div>
     <div class="story_txt center-block">
