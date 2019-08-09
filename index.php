@@ -131,11 +131,10 @@
                     <div class="title3"><a class="maplink" href="https://goo.gl/maps/P1dT31TEZTBEgERV7" target="_blank">
                             Rittenhouse Rd, <br /> Schnepf Farms, <br />Queen Creek, <br />
                             <i class="flaticon-map35"></i></a></div>
+                    <div class="title3"><a class="maplink" href="https://youtu.be/Ujmwr95u9ro" target="_blank">
+                            Click Here for video instructions, <br /> from <br />Cloud Road, <br />
 
-                            <iframe width="420" height="315"
-src="https://www.youtube.com/embed/Ujmwr95u9ro">
-</iframe>
-                            
+              
                     <div class="pattern2"></div>
                     <div class="title1">10 thirty</div>
                     <div class="title5">IN THE MORNING</div>
