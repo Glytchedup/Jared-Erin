@@ -163,9 +163,9 @@
     <div class="story_plane">
         <div class="story_back"></div>
 
-        
-        <div class="story_txt">
-            <div class="story_wrapper">
+        <div class="flex">
+                
+                <div class="story_txt">
                         <div class="story_title">
                             Registry
                             <i>Erin and Jared are registered on</i>
