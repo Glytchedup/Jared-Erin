@@ -181,11 +181,26 @@
                                 Civil Ceremony At Schnepf Farms
                                 <i>21.09.2019</i>
                             </div>
-                            The Ceremony will begin at 10 AM on Saturday Sept 21st. Bla bla bla.
+                            The Ceremony will begin at 10:30 AM on Saturday Sept 21st. Please be in your seats by 10:15 AM.  
                         </div>
                     </div>
                 </div>
 
+                <div class="story_item">
+                    <div class="story_img parallax" data-image="img/lunch.jpg">
+                        <div class="story_img_plane"></div>
+                    </div>
+                    <div class="story_plane">
+                        <div class="story_back"></div>
+                        <div class="story_txt">
+                            <div class="story_title">
+                                Pictures, Appetizers and Lunch
+                                <i>Pictures and Appetizers 11:00-11:45 AM</i>
+                            </div>
+                            Followed by Lunch from 12:00 - 1:30 PM.
+                        </div>
+                    </div>
+                </div>
 
                 <div class="story_item">
                     <div class="story_img parallax" data-image="img/Temple.jpg">
@@ -198,7 +213,7 @@
                                 Sealing
                                 <i>21.09.2019</i>
                             </div>
-                            Erin and Jared will be sealed at the Gilbert Temple at 2 pm. Blah blah
+                            Erin and Jared will be sealed at the Gilbert Temple at 4 PM. Invited guests should arrive no later then 3:30 PM. 
                         </div>
                     </div>
                 </div>
@@ -212,7 +227,7 @@
 
                 <!-- Item -->
                 <div class="story_item">
-                    <div class="story_img parallax" data-image="img/reception2.jpg">
+                    <!-- <div class="story_img parallax" data-image="img/reception2.jpg">
                         <div class="story_img_plane"></div>
                     </div>
                     <div class="story_plane">
@@ -225,25 +240,10 @@
                             This is virtually the first public appearance of the couple together, after
                             wedding where they receive the blessing and gifts from the society and relatives.
                         </div>
-                    </div>
-                </div>
+                    </div> -->
+                </div> -->
 
                 <!-- Item -->
-                <div class="story_item">
-                    <!-- <div class="story_img parallax" data-image="img/phere.jpg">
-                        <div class="story_img_plane"></div>
-                    </div>
-                    <div class="story_plane">
-                        <div class="story_back"></div>
-                        <div class="story_txt">
-                            <div class="story_title">
-                                After Party
-                                <i>21.09.2019 10 PM Onwards</i>
-                            </div>
-                            Secret After Party. Details to come
-                        </div>
-                    </div> -->
-                </div>
             </div>
         </section>
         <!-- Events End -->
@@ -264,7 +264,7 @@
                     <div class="paper">
 
                         <!-- End Date of Reservation -->
-                        <div class="paper_title">Please RSVP by Aug 23rd</div>
+                        <div class="paper_title">Please RSVP by Aug 24rd</div>
 
                         <!-- Form -->
                         <div id="div_block_1">
@@ -303,10 +303,10 @@
             <div class="gallery_wrapper">
                 <div class="gallery_item">
                     <div class="gallery_txt">
-                        <a href="img/date2.jpg" title="Engagement Photos"><b>Thailand</b>
+                        <a href="img/date1.jpg" title="Engagement Photos"><b>Thailand</b>
                         </a>
                     </div>
-                    <img src="img/date2.jpg" alt="Gallery 1">
+                    <img src="img/date1.jpg" alt="Gallery 1">
                 </div>
                 <div class="gallery_item">
                     <div class="gallery_txt">
@@ -315,13 +315,13 @@
                     </div>
                     <img src="img/AZ.jpg" alt="Gallery 2">
                 </div>
-                <!-- <div class="gallery_item">
+                <div class="gallery_item">
                 <div class="gallery_txt">
-                    <a href="img/gallary2.jpg" title="Engagement Photos"><b>Engagement</b>
+                    <a href="img/Engaged.jpg" title="Engagement Photos"><b>Engagement</b>
                     </a>
                 </div>
-                <img src="img/ring.jpg" alt="Gallery 3">
-            </div> -->
+                <img src="img/Engaged.jpg" alt="Gallery 3">
+            </div>
                 <div class="gallery_item">
                     <div class="gallery_txt">
                         <a href="img/ring2.jpg" title="Engagement Photos"><b>The Ring</b>
