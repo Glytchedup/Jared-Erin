@@ -164,10 +164,11 @@
             Registry
             <!-- <i>21.09.2019</i> -->
         </div>
+        Erin and Jared are registered on
         <!-- Registry Links -->
         <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
-                                    Erin and Jared <br /> are registered on <br />Amazon Wedding <br />
-                                    <i class="flaticon-play43"></i></a></div>
+                                    <br />Amazon Wedding <br />
+                                    <i class="flaticon-diamond30"></i></a></div>
                         </div>
                     </div>
                 </div>
