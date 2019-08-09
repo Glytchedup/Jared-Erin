@@ -161,7 +161,7 @@
 </div>
 <div class="story_plane">
     <div class="story_back"></div>
-    <div class="story_txt center">
+    <div class="story_txt center-block">
         <br />
         <div class="story_title">
             Registry
