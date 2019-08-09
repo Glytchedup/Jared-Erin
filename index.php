@@ -163,7 +163,7 @@
     <div class="story_plane">
         <div class="story_back"></div>
 
-        <div class="flex">
+        <div class="container-fluid">
                 
                 <div class="story_txt">
                         <div class="story_title">
