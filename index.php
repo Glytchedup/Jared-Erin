@@ -151,8 +151,11 @@
         <section class="our_story events" id="events">
             <h2>Our Events</h2>
 
+            <div class="container">            
     <!-- Wrapper -->
     <div class="story_wrapper">
+
+</div>
 
 <!-- Item -->
 <div class="story_item">
@@ -177,9 +180,6 @@
                         
                     </div>      
                 </div>
-                <div class="title3"><a class="maplink" href="https://www.amazon.com/wedding/share/ErAndJarBear" target="_blank">
-                    Amazon Wedding
-                    <div><i class="flaticon-diamond30"></i></a></div></div>
                     </div><span class="glyphicon glyphicon-arrow-right"></span>
                     </div>
 
