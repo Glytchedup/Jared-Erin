@@ -131,8 +131,9 @@
                     <div class="title3"><a class="maplink" href="https://goo.gl/maps/P1dT31TEZTBEgERV7" target="_blank">
                             Rittenhouse Rd, <br /> Schnepf Farms, <br />Queen Creek, <br />
                             <i class="flaticon-map35"></i></a></div>
+                            <br />
                     <div class="title3"><a class="maplink" href="https://youtu.be/Ujmwr95u9ro" target="_blank">
-                            Click for instructions, <br /> from Cloud Road,
+                            Click here for video directions <br /> from Cloud Rd entrance
               
                     <div class="pattern2"></div>
                     <div class="title1">10 thirty</div>
