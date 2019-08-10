@@ -20,7 +20,7 @@
     <!-- Theme CSS -->
     <link href="css/style.min.css" rel="stylesheet">
     <!-- Color CSS -->
-    <link href="css/brown.min.css" rel="stylesheet">
+    <link href="css/blue.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/testStyle.min.css" rel="stylesheet">
 
     <!-- Google Fonts -->
